@@ -1,102 +1,136 @@
 {
   "main": {
-    "name":"Zachary Henderson",
-    "description":"Developer with a passion for creating interactive UI that just make sense",
-    "image":"profesh.jpg",
-    "bio":"I’m an enthusiastic professional with a sharp technical acumen, passion for web development, and extensive leadership and customer service experience. I’m familiar with the entire software development process from design and development to testing and deployment. I’m well-schooled in translating UX concepts into code, developing new user features, crafting code for various software functions, testing functionality of applications, and tweaking the code to perfection.",
-    "contactmessage":"Contact me here, or give me a call! I'd love to hear from you.",
-    "email": "contact@zhenderson.dev",
+    "name": "Zachary Henderson",
+    "description": "Developer with a passion for creating interactive UI that just make sense",
+    "image": "profesh.jpg",
+    "bio": "I’m an enthusiastic professional with a sharp technical acumen, passion for web development, and extensive leadership and customer service experience. I’m familiar with the entire software development process from design and development to testing and deployment. I’m well-schooled in translating UX concepts into code, developing new user features, crafting code for various software functions, testing functionality of applications, and tweaking the code to perfection.",
+    "contactmessage": "Contact me here, or give me a call! I'd love to hear from you.",
+    "email": "contactme@zhenderson.dev",
     "phone": "206-470-9723",
-    "github":"https://github.com/zachary-henderson",
-    "project":"https://aa-vibe-app.herokuapp.com/",
-    "address":{
-      "street":"9210 Moody Park Dr.",
-      "city":"Overland Park",
-      "state":"Kansas",
+    "github": "https://github.com/zachary-henderson",
+    "project": "https://aa-vibe-app.herokuapp.com/",
+    "address": {
+      "street": "9210 Moody Park Dr.",
+      "city": "Overland Park",
+      "state": "Kansas",
       "zip": "66212"
     },
     "website": "http://www.zhenderson.dev",
-    "resumedownload":"https://docs.google.com/document/d/1qL0L30Iw0s474avuG8hkY_4jThOBKE8_ZgaLvJ2Abtk/export?format=pdf",
-    "social":[
-  
+    "resumedownload": "https://docs.google.com/document/d/1qL0L30Iw0s474avuG8hkY_4jThOBKE8_ZgaLvJ2Abtk/export?format=pdf",
+    "social": [
       {
-        "name":"github",
-        "url":"https://zhenderson.dev",
-        "className":"fa fa-github"
-      },
-          {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name": "github",
+        "url": "https://github.com/zachary-henderson",
+        "className": "fa fa-github"
       },
       {
-        "name":"angellist",
-        "url":"https://angel.co/u/zachary-henderson-3",
-        "className":"fa fa-play"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/zacharyh/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "angellist",
+        "url": "https://angel.co/u/zachary-henderson-3",
+        "className": "fa fa-play"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"",
-    "education":[
+  "resume": {
+    "skillmessage": "",
+    "education": [
       {
-        "school":"App Academy",
-        "degree":"Fullstack Development",
-        "graduated":"August 2020",
-        "description":""
+        "school": "App Academy",
+        "degree": "Fullstack Development",
+        "graduated": "August 2020",
+        "description": ""
       },
       {
-        "school":"Chadron State College",
-        "degree":"Applied Music",
-        "graduated":"December 2016",
-        "description":""
+        "school": "Chadron State College",
+        "degree": "Applied Music",
+        "graduated": "December 2016",
+        "description": ""
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"VIPkid",
-        "title":"Teacher",
-        "years":"Nov 2018 - Present",
-        "description":"Currently I’m working as an English Teacher with VIPKID where I instruct English grammar and writing to students in a remote environment while working collaboratively with fellow teachers and parents to propel students’ academic growth. I was accountable for preparing daily lesson plans, developing instructional materials, answering to student inquiries, and implementing successful instructional techniques."
+        "company": "VIPkid",
+        "title": "Teacher",
+        "years": "Nov 2018 - Present",
+        "description": "Currently I’m working as an English Teacher with VIPKID where I instruct English grammar and writing to students in a remote environment while working collaboratively with fellow teachers and parents to propel students’ academic growth. I was accountable for preparing daily lesson plans, developing instructional materials, answering to student inquiries, and implementing successful instructional techniques."
       },
       {
-        "company":"Wayne State College",
-        "title":"Assistant Director - Residence Life",
-        "years":"June 2017 - March 2018",
-        "description":"As an Assistant Director – Residence Life with Wayne State College, I spearheaded full spectrum daily operations of three buildings, 24 student staff members, and 700+ residents while working collaboratively with the director to maintain residential facilities in good living conditions."
+        "company": "Wayne State College",
+        "title": "Assistant Director - Residence Life",
+        "years": "June 2017 - March 2018",
+        "description": "As an Assistant Director – Residence Life with Wayne State College, I spearheaded full spectrum daily operations of three buildings, 24 student staff members, and 700+ residents while working collaboratively with the director to maintain residential facilities in good living conditions."
       },
       {
-        "company":"Chadron State College",
-        "title":"Office Assistant II",
-        "years":"May 2016 - June 2017",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Chadron State College",
+        "title": "Office Assistant II",
+        "years": "May 2016 - June 2017",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
-
     ],
-    "skills":[
+    "skills": [
       {
-        "name": "ReactJs",
-        "level": "50%"
+        "name": "JavaScript",
+        "level": "90%"
       },
       {
-        "name":"Python",
-        "level":"60%"
+        "name": "ReactJs & Hooks",
+        "level": "85%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "75%"
+      },
+      {
+        "name": "Styled-Components",
+        "level": "70%"
+      },
+      {
+        "name": "ReduxJs",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Flask",
+        "level": "75%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "75%"
+      },
+      {
+        "name": "Express.js",
+        "level": "60%"
       }
-
-
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Vibe",
-        "category":"A music player to match your 'vibe'",
-        "image":"Vibe.jpeg",
-        "url":"https://aa-vibe-app.herokuapp.com/"
+        "title": "Vibe",
+        "category": "A music player to match your 'vibe'",
+        "image": "Vibe.jpeg",
+        "url": "https://aa-vibe-app.herokuapp.com/"
+      },
+      {
+        "title": "Ins'tgram",
+        "category": "An Instagram clone that isn't Instagram",
+        "image": "isntgram.png",
+        "url": "http://isntgram.herokuapp.com/"
       }
     ]
   }
