@@ -1,13 +1,13 @@
 {
   "main": {
-    "name": "Zachary Henderson",
+    "name": "Mylo James",
     "description": "Developer with a passion for creating interactive UI that just make sense",
     "image": "profesh.jpg",
     "bio": "I’m an enthusiastic professional with a sharp technical acumen, passion for web development, and extensive leadership and customer service experience. I’m familiar with the entire software development process from design and development to testing and deployment. I’m well-schooled in translating UX concepts into code, developing new user features, crafting code for various software functions, testing functionality of applications, and tweaking the code to perfection.",
     "contactmessage": "Contact me here, or give me a call! I'd love to hear from you.",
     "email": "contactme@zhenderson.dev",
     "phone": "206-470-9723",
-    "github": "https://github.com/zachary-henderson",
+    "github": "https://github.com/myloj",
     "project": "https://aa-vibe-app.herokuapp.com/",
     "address": {
       "street": "9210 Moody Park Dr.",
@@ -20,17 +20,17 @@
     "social": [
       {
         "name": "github",
-        "url": "https://github.com/zachary-henderson",
+        "url": "https://github.com/mylo-james",
         "className": "fa fa-github"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/zacharyh/",
+        "url": "https://www.linkedin.com/in/myloj/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "angellist",
-        "url": "https://angel.co/u/zachary-henderson-3",
+        "url": "https://angel.co/u/mylo-james",
         "className": "fa fa-play"
       }
     ]
